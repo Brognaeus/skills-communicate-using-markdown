@@ -8,3 +8,7 @@ exampletext = "This e6ample te6t contains errors."
 re.sub("6", "x", exampletext)
 print(exampletext)
 ```
+- [x] Add the first list item
+- [x] Add the second list item
+- [ ] Add the fifth list item
+- [x] Add the fourth list item
